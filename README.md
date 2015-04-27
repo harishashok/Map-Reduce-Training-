@@ -1,7 +1,7 @@
 # Map-Reduce-Training
 
-EmpNames and SortEmployeeNames are executed on Array basis
-Arrays.sort(employees)
+EmpNames and SortEmployeeNames are executed on Array list
+**Arrays.sort(employees)**
 
-EmployeeName and SortEmployee are executed on Collections basis
-Collections.sort(employees)
+EmployeeName and SortEmployee are executed as Collections list
+**Collections.sort(employees)**
